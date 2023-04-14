@@ -1,0 +1,2 @@
+web: python send.py
+worker: python send.py 
